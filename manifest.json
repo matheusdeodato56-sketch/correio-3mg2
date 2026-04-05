@@ -1,0 +1,25 @@
+{
+  "name": "Correio 3MG2",
+  "short_name": "Correio 3MG2",
+  "description": "Correio do Terceirão – 3MG2",
+  "start_url": "/correio-3mg2/",
+  "scope": "/correio-3mg2/",
+  "display": "standalone",
+  "background_color": "#FFF5F6",
+  "theme_color": "#C0303A",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
